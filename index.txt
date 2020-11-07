@@ -1,3 +1,5 @@
 metin belgesi
 
 github merge işlemi denesi için değişiklik yapıyorum
+
+selam yeni değişiklik
