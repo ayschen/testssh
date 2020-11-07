@@ -1,1 +1,3 @@
 metin belgesi
+
+github merge işlemi denesi için değişiklik yapıyorum
